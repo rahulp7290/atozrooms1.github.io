@@ -71,4 +71,18 @@ body{
         padding:40px;
       }
     }
+
+.about{
+    display: flex;
+}
+.about p{
+    padding: 20px;
+}
+.contact{
+    display: flex;
+}
+.contact p{
+    padding-top: 100px;
+}
+
     
